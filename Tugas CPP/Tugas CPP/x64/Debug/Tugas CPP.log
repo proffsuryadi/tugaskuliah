@@ -1,0 +1,4 @@
+﻿  Tugas CPP.cpp
+C:\Users\user82\OneDrive\Tugas Kuliah\Tugas CPP\Tugas CPP\Tugas CPP.cpp(100,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user82\OneDrive\Tugas Kuliah\Tugas CPP\Tugas CPP\Tugas CPP.cpp(102,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Tugas CPP.vcxproj -> C:\Users\user82\OneDrive\Tugas Kuliah\Tugas CPP\x64\Debug\Tugas CPP.exe
